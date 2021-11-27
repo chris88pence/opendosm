@@ -73,14 +73,14 @@ copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethu
 # banner
 [Languages.en.params.banner]
 title = "Malaysia Open Data Ocean"
-subtitle = "Find your best data source per your request"
+subtitle = "Find your best data source as you wish.."
 bg_image = "images/banner.jpg"
 placeholder = "Dataset? Just ask here or enter terms"
 
 # call to action
 [Languages.en.params.cta]
 enable = true
-title = "Didn't find an answer to your search?"
+title = "Didn't find any dataset related to your search?"
 content = "Kindly rectify your dataset keywords."
 # call to action button
 [Languages.en.params.cta.button]
@@ -113,21 +113,39 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "subjects"
-  name = "Installation"
+  name = "Services"
   url = "installation"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "subjects"
-  name = "Billing and Pricing"
+  name = "Manufacturing"
   url = "billing-pricing"
   weight = 2
 
   [[Languages.en.menu.main]]
   parent = "subjects"
-  name = "Features"
+  name = "Construction"
   url = "features"
   weight = 3
+  
+  [[Languages.en.menu.main]]
+  parent = "subjects"
+  name = "Agriculture"
+  url = "features"
+  weight = 4
+  
+  [[Languages.en.menu.main]]
+  parent = "subjects"
+  name = "Mining"
+  url = "features"
+  weight = 5
+  
+  [[Languages.en.menu.main]]
+  parent = "subjects"
+  name = "Others"
+  url = "features"
+  weight = 6
 
 
 ################################### Franch Language ######################
