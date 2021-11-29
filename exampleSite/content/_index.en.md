@@ -8,4 +8,4 @@ Datasets contains here covers wide range of topics, including, social, economic 
 
 #### _Open Data, Open Potential -Bringing the national open data community together._
 
-<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="100%" style="border:none;" src="[https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view](https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view "https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view")"></iframe>
+<div data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
