@@ -18,6 +18,7 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/agriculture/agriculture.md
 - exampleSite/content/construction/construction.md
 - exampleSite/content/installation/services.md
 - exampleSite/content/others/others.md
