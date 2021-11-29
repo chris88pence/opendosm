@@ -11,27 +11,32 @@ sections:
   match: "*"
 - type: directory
   path: exampleSite/content/installation
-  label: Installation
+  label: Services
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/features
-  label: Features
+  label: Manufacturing
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/faq
-  label: Faq
+  label: Construction
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/contact
-  label: Contact
+  label: Agriculture
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/billing-pricing
-  label: Billing pricing
+  label: Mining
+  create: all
+  match: "**/*"
+- type: directory
+  path: exampleSite/content/others
+  label: Others
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
