@@ -19,3 +19,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/installation/services.md
+- exampleSite/content/others/others.md
