@@ -21,12 +21,12 @@ sections:
   match: "**/*"
 - type: directory
   path: exampleSite/content/faq
-  label: Construction
+  label: FAQ
   create: all
   match: "**/*"
 - type: directory
   path: exampleSite/content/contact
-  label: Agriculture
+  label: Contact
   create: all
   match: "**/*"
 - type: directory
