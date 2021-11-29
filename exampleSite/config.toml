@@ -1,215 +1,150 @@
-################################# Default configuration ###################
-# provide your domain here
 baseURL = "https://examplesite.com/"
-# theme
-theme = "dot-hugo"
-# site title
-title = "openDOSM"
-# disable language
 disableLanguages = []
-# google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
-# unsafe html
-[markup.goldmark.renderer]
-unsafe = true
-
-
-############################# Default Parameters ##########################
-[params]
-# logo is for all page
-logo = ""
-# logo white is for homepage logo, you can use colorful logo too...
-logo_white = ""
-# when logo is empty, it will shown your site title
-
-# OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
-
-# customize color
-primary_color = "#02007e"
-body_color = "#f9f9f9"
-text_color = "#636363"
-text_color_dark = "#242738"
-white_color = "#ffffff"
-light_color = "#f8f9fa"
-
-# font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
-
-# contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
-
-
-############################## social links ##############################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-name = "Facebook"
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-name = "Twitter"
-link = "#"
-  
-[[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-name = "Github"
-link = "#"
-  
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-name = "Linkedin"
-link = "#"
-
-################################ English Language ######################
+googleAnalytics = ""
+theme = "dot-hugo"
+title = "openDOSM"
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
-weight = 1
 copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
-
-# banner
-[Languages.en.params.banner]
-title = "Malaysia Open Data Ocean"
-subtitle = "Find your best data source as you wish.."
-bg_image = "images/banner.jpg"
-placeholder = "Dataset? Just ask here or enter terms"
-
-# call to action
-[Languages.en.params.cta]
-enable = true
-title = "Didn't find any dataset related to your search?"
-content = "Kindly rectify your dataset keywords."
-# call to action button
-[Languages.en.params.cta.button]
-enable = true
-label = "contact us"
-link = "contact"
-
-
-################## english navigation #################
+languageCode = "en-us"
+languageName = "En"
+weight = 1
 [[Languages.en.menu.main]]
 name = "Home"
 url = "/"
 weight = 1
-
 [[Languages.en.menu.main]]
 name = "Faq"
 url = "faq"
 weight = 2
-
 [[Languages.en.menu.main]]
 name = "contact"
 url = "contact"
 weight = 3
-
-# Dropdown menu
 [[Languages.en.menu.main]]
-weight = 4
-name = "subjects"
 hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Services"
-  url = "installation"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Manufacturing"
-  url = "billing-pricing"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Construction"
-  url = "features"
-  weight = 3
-  
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Agriculture"
-  url = "features"
-  weight = 4
-  
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Mining"
-  url = "features"
-  weight = 5
-  
-  [[Languages.en.menu.main]]
-  parent = "subjects"
-  name = "Others"
-  url = "features"
-  weight = 6
-
-
-################################### Franch Language ######################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
+name = "subjects"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Services"
+parent = "subjects"
+url = "installation"
+weight = 1
+[[Languages.en.menu.main]]
+name = "Manufacturing"
+parent = "subjects"
+url = "billing-pricing"
 weight = 2
-copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
-
-# banner
-[Languages.fr.params.banner]
-title = "Comment pouvons nous aider?"
-subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
+[[Languages.en.menu.main]]
+name = "Construction"
+parent = "subjects"
+url = "features"
+weight = 3
+[[Languages.en.menu.main]]
+name = "Agriculture"
+parent = "subjects"
+url = "features"
+weight = 4
+[[Languages.en.menu.main]]
+name = "Mining"
+parent = "subjects"
+url = "features"
+weight = 5
+[[Languages.en.menu.main]]
+name = "Others"
+parent = "subjects"
+url = "features"
+weight = 6
+[Languages.en.params.banner]
 bg_image = "images/banner.jpg"
-placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
-
-# call to action
-[Languages.fr.params.cta]
+placeholder = "Dataset? Just ask here or enter terms"
+subtitle = "Find your best data source as you wish.."
+title = "Malaysia Open Data Ocean"
+[Languages.en.params.cta]
+content = "Kindly rectify your dataset keywords."
 enable = true
-title = "Vous n'avez pas trouvé de réponse à votre question?"
-content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
-# call to action button
-[Languages.fr.params.cta.button]
+title = "Didn't find any dataset related to your search?"
+[Languages.en.params.cta.button]
 enable = true
-label = "Contactez nous"
+label = "contact us"
 link = "contact"
-
-
-################## french navigation #################
+[Languages.fr]
+copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
 [[Languages.fr.menu.main]]
 name = "Accueil"
 url = "/"
 weight = 1
-
 [[Languages.fr.menu.main]]
 name = "Faq"
 url = "faq"
 weight = 2
-
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "contact"
 weight = 3
-
-# Dropdown menu
 [[Languages.fr.menu.main]]
-weight = 4
-name = "docs"
 hasChildren = true
-
-  [[Languages.fr.menu.main]]
-  parent = "docs"
-  name = "Installation"
-  url = "installation"
-  weight = 1
-
-  [[Languages.fr.menu.main]]
-  parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
-  weight = 2
-
-  [[Languages.fr.menu.main]]
-  parent = "docs"
-  name = "Features"
-  url = "features"
-  weight = 3
+name = "docs"
+weight = 4
+[[Languages.fr.menu.main]]
+name = "Installation"
+parent = "docs"
+url = "installation"
+weight = 1
+[[Languages.fr.menu.main]]
+name = "Billing and Pricing"
+parent = "docs"
+url = "billing-pricing"
+weight = 2
+[[Languages.fr.menu.main]]
+name = "Features"
+parent = "docs"
+url = "features"
+weight = 3
+[Languages.fr.params.banner]
+bg_image = "images/banner.jpg"
+placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
+subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
+title = "Comment pouvons nous aider?"
+[Languages.fr.params.cta]
+content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
+enable = true
+title = "Vous n'avez pas trouvé de réponse à votre question?"
+[Languages.fr.params.cta.button]
+enable = true
+label = "Contactez nous"
+link = "contact"
+[markup.goldmark.renderer]
+unsafe = true
+[params]
+author = "Themefisher"
+body_color = "#f9f9f9"
+contact_form_action = "#"
+description = "This is meta description"
+font_family = "lato"
+image = "images/logo.png"
+light_color = "#f8f9fa"
+logo = ""
+logo_white = ""
+primary_color = "#02007e"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+name = "Facebook"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+name = "Twitter"
+[[params.social]]
+icon = "ti-github"
+link = "#"
+name = "Github"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+name = "Linkedin"
