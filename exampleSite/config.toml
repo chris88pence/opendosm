@@ -76,32 +76,32 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Agriculture"
 parent = "subjects"
-url = "agriculture"
+url = "agriculture/agriculture/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Indices"
 parent = "subjects"
-url = "indices"
+url = "indices/indices"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Labour Market"
 parent = "subjects"
-url = "lmarket"
+url = "lmarket/labour-market"
 weight = 3
 [[Languages.en.menu.main]]
 name = "National Accounts"
 parent = "subjects"
-url = "naccount"
+url = "naccount/national-accounts"
 weight = 4
 [[Languages.en.menu.main]]
 name = "Population"
 parent = "subjects"
-url = "population"
+url = "population/population"
 weight = 5
 [[Languages.en.menu.main]]
 name = "Others"
 parent = "subjects"
-url = "others"
+url = "others/others"
 weight = 6
 [Languages.en.params.banner]
 bg_image = "images/banner.jpg"
