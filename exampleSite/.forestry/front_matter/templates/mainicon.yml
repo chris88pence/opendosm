@@ -18,4 +18,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/indices/indices.md
 - exampleSite/content/naccount/national-accounts.md
