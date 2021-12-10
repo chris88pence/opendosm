@@ -1,6 +1,6 @@
 +++
 date = 2018-12-29T05:02:05Z
-keywords = [""]
+keywords = ["social", ""]
 lastmod = 2020-01-05T04:42:26Z
 title = "Others Social Indicator"
 weight = 3
