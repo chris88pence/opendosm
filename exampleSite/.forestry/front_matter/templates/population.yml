@@ -1,6 +1,6 @@
 ---
 label: Population
-hide_body: true
+hide_body: false
 fields:
 - type: datetime
   name: date
