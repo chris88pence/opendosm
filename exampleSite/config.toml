@@ -4,7 +4,7 @@ googleAnalytics = ""
 theme = "dot-hugo"
 title = "openDOSM"
 [Languages.en]
-copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; CTADR, DOSM 2021 by [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
