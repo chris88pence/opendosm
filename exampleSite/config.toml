@@ -3,6 +3,8 @@ disableLanguages = []
 googleAnalytics = ""
 theme = "dot-hugo"
 title = "openDOSM"
+
+<!---
 [Languages.bm]
 copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "bm-bm"
@@ -52,6 +54,8 @@ title = "Vous n'avez pas trouvé de réponse à votre question?"
 enable = true
 label = "Contactez nous"
 link = "contact"
+-->
+
 [Languages.en]
 copyright = "Copyright &copy; CTADR, DOSM 2021 by [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
