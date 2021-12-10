@@ -74,34 +74,34 @@ hasChildren = true
 name = "subjects"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Services"
-parent = "subjects"
-url = "installation"
-weight = 1
-[[Languages.en.menu.main]]
-name = "Manufacturing"
-parent = "subjects"
-url = "billing-pricing"
-weight = 2
-[[Languages.en.menu.main]]
-name = "Construction"
-parent = "subjects"
-url = "features"
-weight = 3
-[[Languages.en.menu.main]]
 name = "Agriculture"
 parent = "subjects"
-url = "features"
+url = "agriculture"
+weight = 1
+[[Languages.en.menu.main]]
+name = "Indices"
+parent = "subjects"
+url = "indices"
+weight = 2
+[[Languages.en.menu.main]]
+name = "Labour Market"
+parent = "subjects"
+url = "lmarket"
+weight = 3
+[[Languages.en.menu.main]]
+name = "National Accounts"
+parent = "subjects"
+url = "naccount"
 weight = 4
 [[Languages.en.menu.main]]
-name = "Mining"
+name = "Population"
 parent = "subjects"
-url = "features"
+url = "population"
 weight = 5
 [[Languages.en.menu.main]]
 name = "Others"
 parent = "subjects"
-url = "features"
+url = "others"
 weight = 6
 [Languages.en.params.banner]
 bg_image = "images/banner.jpg"
