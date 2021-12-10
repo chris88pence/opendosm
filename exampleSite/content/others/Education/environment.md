@@ -1,7 +1,7 @@
 +++
 date = 2018-12-29T05:02:05Z
 draft = true
-keywords = [""]
+keywords = ["environment", ""]
 lastmod = 2020-01-05T04:42:26Z
 title = "Environment"
 weight = 3
