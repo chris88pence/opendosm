@@ -1,7 +1,7 @@
 +++
 date = 2018-12-29T05:02:05Z
 draft = true
-keywords = [""]
+keywords = ["bop", ""]
 lastmod = 2020-01-05T04:42:26Z
 title = "Balance of Payment and Investment"
 weight = 3
