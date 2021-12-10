@@ -1,7 +1,6 @@
 +++
 date = 2018-12-29T05:02:05Z
-draft = true
-keywords = [""]
+keywords = ["short-term", ""]
 lastmod = 2020-01-05T04:42:26Z
 title = "Short Term Indicators"
 weight = 3
