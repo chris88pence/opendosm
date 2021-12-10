@@ -5,23 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/mining
-  label: Mining
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/Manufacturing
-  label: Manufacturing
-  create: all
-  match: "**/*"
-- type: directory
   path: exampleSite/content/agriculture
   label: Agriculture
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/services
-  label: Services
+  path: exampleSite/content/lmarket
+  label: Labour Market
   create: all
   match: "**/*"
 - type: directory
