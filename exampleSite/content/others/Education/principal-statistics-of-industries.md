@@ -1,8 +1,9 @@
-+++
-date = 2021-12-09T16:00:00Z
-description = ""
-icon = ""
-title = "Principal Statistics of Industries"
-type = "docs"
-
-+++
+---
+title: "Principal Statistics of Industries"
+date: 2018-12-29T11:02:05+06:00
+lastmod: 2020-01-05T10:42:26+06:00
+weight: 3
+draft: false
+# search related keywords
+keywords: [""]
+---
