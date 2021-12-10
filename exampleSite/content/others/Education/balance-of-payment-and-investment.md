@@ -1,11 +1,13 @@
-+++
-date = 2018-12-29T05:02:05Z
-keywords = ["bop", ""]
-lastmod = 2020-01-05T04:42:26Z
-title = "Balance of Payment and Investment"
-weight = 3
+---
+title: "Balance of Payment and Investment"
+date: 2018-12-29T11:02:05+06:00
+lastmod: 2020-01-05T10:42:26+06:00
+weight: 3
+draft: false
+# search related keywords
+keywords: [""]
+---
 
-+++
 ### Global site parameters
 
 On top of [Hugo global configuration](https://gohugo.io/overview/configuration/), **Dot** lets you define the following parameters in your `config.toml` (here, values are default).
