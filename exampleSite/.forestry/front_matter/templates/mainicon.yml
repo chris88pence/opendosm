@@ -2,18 +2,18 @@
 label: MainIcon
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: title
 - type: datetime
   name: date
   label: date
 - type: text
-  name: description
-  label: description
-- type: text
   name: icon
   label: icon
 - type: text
-  name: title
-  label: title
+  name: description
+  label: description
 - type: text
   name: type
   label: type
