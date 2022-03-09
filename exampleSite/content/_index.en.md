@@ -1,7 +1,7 @@
 +++
 
 +++
-<img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/favicon.png" width="200" height="200">
+
 
 #### **openDOSM** is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 
@@ -10,6 +10,5 @@ Datasets contains here covers wide range of topics, including, social, economic 
 
 #### _Open Data, Open Potential -Bringing the national open data community together._
 
-<br><br>
 
-<div style="width: 1100px" data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
+<div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
