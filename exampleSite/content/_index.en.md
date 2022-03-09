@@ -1,6 +1,8 @@
 +++
 
 +++
+<img src="/images/favicon.png" alt="drawing" width="200"/>
+  
 #### **GitHub-DOSM** is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 
 This is an initiative to expand the open data audience and to promote open data usage among public.  
@@ -10,7 +12,5 @@ Datasets contains here covers wide range of topics, including, social, economic 
 
 <br><br>
 
-<center>
-<div style="width: 1100px" data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
-</center>
 
+<div style="width: 1100px" data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
