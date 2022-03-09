@@ -135,11 +135,11 @@ text_color_dark = "#242738"
 white_color = "#ffffff"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/CoreTeamBDA"
 name = "Facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/coreteambda"
 name = "Twitter"
 [[params.social]]
 icon = "ti-github"
