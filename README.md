@@ -1,6 +1,6 @@
 
 <h1 align=center>Malaysia Open Data Ocean | <a target="_blank" href="https://opendosm.netlify.app/" rel="nofollow">Visit Us</a></h1>
-
+<p align=center>Open Data, Open Potential -Bringing the national open data community together.</p>
 ---
 
 <p align="center">
@@ -13,8 +13,6 @@
 - GitHub-DOSM is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 This is an initiative to expand the open data audience and to promote open data usage among public.
 Datasets contains here covers wide range of topics, including, social, economic & financial and environment.
-
-Open Data, Open Potential -Bringing the national open data community together.
 
 ## Content Management System
 
