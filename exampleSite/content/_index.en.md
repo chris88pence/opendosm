@@ -10,14 +10,8 @@ Datasets contains here covers wide range of topics, including, social, economic 
 
 <br><br>
 
-<style>  
-div.ex1 {  
-  width: 1100px;  
-  margin: auto;  
-}  
-</style>
-
-<div.ex1> data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div.ex1>
-
+<center>
+<div style="width: 1100px" data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
+</center>
 
 
