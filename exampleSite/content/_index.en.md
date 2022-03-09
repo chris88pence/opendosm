@@ -11,3 +11,5 @@ Datasets contains here covers wide range of topics, including, social, economic 
 <br><br>
 
 <div data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
+
+<iframe referrerpolicy="no-referrer-when-downgrade" height="600px" width="80%" style="border:none;" src="[https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view](https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view "https://view-awesome-table.com/-Mom5od9PnCXmfFGZhZG/view")"></iframe>
