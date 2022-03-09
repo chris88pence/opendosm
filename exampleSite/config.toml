@@ -1,6 +1,6 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://opendosm.netlify.app/"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "G-ZVC3JDZRSZ"
 theme = "dot-hugo"
 title = "openDOSM"
 [Languages.bm]
