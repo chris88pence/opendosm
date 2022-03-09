@@ -6,8 +6,6 @@
 This is an initiative to expand the open data audience and to promote open data usage among public.  
 Datasets contains here covers wide range of topics, including, social, economic & financial and environment.
 
-<center><img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/favicon.png" alt="screenshot" width="20%"></center>
-
 #### _Open Data, Open Potential -Bringing the national open data community together._
 
 <br><br>
@@ -15,5 +13,4 @@ Datasets contains here covers wide range of topics, including, social, economic 
 <center>
 <div style="width: 1100px" data-type="AwesomeTableView" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
 </center>
-
 
