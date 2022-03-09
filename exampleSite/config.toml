@@ -105,7 +105,7 @@ parent = "subjects"
 url = "others/others"
 weight = 6
 [Languages.en.params.banner]
-bg_image = "images/banner.jpg"
+bg_image = "images/bannerNew.jpg"
 placeholder = "Dataset? Just ask here or enter terms"
 subtitle = "Find your best data source as you wish.."
 title = "Malaysia Open Data Ocean"
