@@ -6,7 +6,7 @@
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/37659754/54081086-cc7ce200-4328-11e9-9f7d-74d9b32fa68c.gif" alt="screenshot" width="100%">
+<img src="https://github.com/DOSM-GitHub/opendosm/blob/master/images/overview_opendosm.gif" alt="screenshot" width="100%">
 </p>
 
 ---
