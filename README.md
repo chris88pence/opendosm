@@ -1,5 +1,5 @@
 
-<h1 align=center>Dot Hugo | <a target="_blank" href="https://demo.gethugothemes.com/dot" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fdot%2F">Page Speed (81%)</a></h1>
+<h1 align=center>Dot Hugo | <a target="_blank" href="https://opendosm.netlify.app/" rel="nofollow">Visit Us</a></h1>
 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.64.0" alt="Contributors">
