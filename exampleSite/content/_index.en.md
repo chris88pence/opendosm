@@ -1,7 +1,7 @@
 +++
 
 +++
-<img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/favicon.png" alt="logo_openDOSM" width="200"/>
+[<img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/favicon.png" width="200"/>](logo_openDOSM.png)
   
 #### **GitHub-DOSM** is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 
