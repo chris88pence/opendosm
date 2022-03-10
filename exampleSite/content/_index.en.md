@@ -13,3 +13,8 @@ Datasets contains here covers wide range of topics, including, social, economic 
 <br><br>
 
 <div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
+
+<iframe
+  src="http://statsgen.cloud/openDOSM/resources.html"
+  style="width:100%; height:300px;"
+></iframe>
