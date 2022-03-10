@@ -1,8 +1,6 @@
 +++
 
 +++
-
-
 #### **openDOSM** is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 
 This is an initiative to expand the open data audience and to promote open data usage among public.  
@@ -11,6 +9,7 @@ Datasets contains here covers wide range of topics, including, social, economic 
 #### _Open Data, Open Potential -Bringing the national open data community together._
 
 <br><br>
-Alternatively , you can look into the openDOSM Catalog by accessing through: [http://statsgen.cloud/openDOSM/resources.html](http://statsgen.cloud/openDOSM/resources.html)
+Alternatively , you can look into the **openDOSM Catalog** by accessing through: 
+[openDOSM Catalog](http://statsgen.cloud/openDOSM/resources.html){: .btn}
 
 <div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
