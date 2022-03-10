@@ -2,56 +2,7 @@ baseURL = "https://opendosm.netlify.app/"
 disableLanguages = []
 googleAnalytics = "G-ZVC3JDZRSZ"
 theme = "dot-hugo"
-title = "openDOSM"
-[Languages.bm]
-copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "bm-bm"
-languageName = "Bm"
-weight = 2
-[[Languages.bm.menu.main]]
-name = "Accueil"
-url = "/"
-weight = 1
-[[Languages.bm.menu.main]]
-name = "Faq"
-url = "faq"
-weight = 2
-[[Languages.bm.menu.main]]
-name = "contact"
-url = "contact"
-weight = 3
-[[Languages.bm.menu.main]]
-hasChildren = true
-name = "docs"
-weight = 4
-[[Languages.bm.menu.main]]
-name = "Installation"
-parent = "docs"
-url = "installation"
-weight = 1
-[[Languages.bm.menu.main]]
-name = "Billing and Pricing"
-parent = "docs"
-url = "billing-pricing"
-weight = 2
-[[Languages.bm.menu.main]]
-name = "Features"
-parent = "docs"
-url = "features"
-weight = 3
-[Languages.bm.params.banner]
-bg_image = "https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/banner.jpg"
-placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
-subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
-title = "Comment pouvons nous aider?"
-[Languages.bm.params.cta]
-content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
-enable = true
-title = "Vous n'avez pas trouvé de réponse à votre question?"
-[Languages.bm.params.cta.button]
-enable = true
-label = "Contactez nous"
-link = "contact"
+title = "openDOSM | Malaysia Open Data Ocean"
 
 [Languages.en]
 copyright = "Copyright &copy; CTADR, DOSM 2021 by [Gethugothemes](https://gethugothemes.com/)"
@@ -106,11 +57,11 @@ url = "others/others"
 weight = 6
 [Languages.en.params.banner]
 bg_image = "https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/banner.jpg"
-placeholder = "Dataset? Just ask here or enter terms"
+placeholder = "Find your best data source as you wish.."
 subtitle = "Open Data, Open Potential - Bringing the national open data community together."
 title = "Malaysia Open Data Ocean"
 [Languages.en.params.cta]
-content = "Find your best data source as you wish.."
+content = "Dataset? Just ask here or enter terms"
 enable = true
 title = "Didn't find any dataset related to your search?"
 [Languages.en.params.cta.button]
@@ -149,3 +100,53 @@ name = "Github"
 icon = "ti-linkedin"
 link = "#"
 name = "Linkedin"
+
+[Languages.bm]
+copyright = "Copyright &copy; 2021 un thème Hugo par [Gethugothemes](https://gethugothemes.com/)"
+languageCode = "bm-bm"
+languageName = "Bm"
+weight = 2
+[[Languages.bm.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+[[Languages.bm.menu.main]]
+name = "Faq"
+url = "faq"
+weight = 2
+[[Languages.bm.menu.main]]
+name = "contact"
+url = "contact"
+weight = 3
+[[Languages.bm.menu.main]]
+hasChildren = true
+name = "docs"
+weight = 4
+[[Languages.bm.menu.main]]
+name = "Installation"
+parent = "docs"
+url = "installation"
+weight = 1
+[[Languages.bm.menu.main]]
+name = "Billing and Pricing"
+parent = "docs"
+url = "billing-pricing"
+weight = 2
+[[Languages.bm.menu.main]]
+name = "Features"
+parent = "docs"
+url = "features"
+weight = 3
+[Languages.bm.params.banner]
+bg_image = "https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/banner.jpg"
+placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
+subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
+title = "Comment pouvons nous aider?"
+[Languages.bm.params.cta]
+content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
+enable = true
+title = "Vous n'avez pas trouvé de réponse à votre question?"
+[Languages.bm.params.cta.button]
+enable = true
+label = "Contactez nous"
+link = "contact"
