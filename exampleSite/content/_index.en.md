@@ -9,7 +9,7 @@ Datasets contains here covers wide range of topics, including, social, economic 
 #### _Open Data, Open Potential -Bringing the national open data community together._
 
 <br><br>
-Alternatively , you can look into the **openDOSM Catalog** by accessing through: 
-[openDOSM Catalog](http://statsgen.cloud/openDOSM/resources.html){: .btn}
+Alternatively , you can look into the data eCatalog by accessing through: <br>
+[**openDOSM Catalog**](http://statsgen.cloud/openDOSM/resources.html)
 
 <div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
