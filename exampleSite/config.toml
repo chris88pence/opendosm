@@ -40,7 +40,7 @@ parent = "docs"
 url = "features"
 weight = 3
 [Languages.bm.params.banner]
-bg_image = "images/bannerNew.jpg"
+bg_image = "https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/banner.jpg"
 placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
 subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
 title = "Comment pouvons nous aider?"
