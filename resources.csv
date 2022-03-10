@@ -1,0 +1,14 @@
+﻿Resource,Hotline Phone/Text,Resource Description,Keywords,Region,ShortLink,Website
+First Resource,,"Wow, what a helpful resource!","red, yellow",One,ex1.com,https://www.example1.com
+Second Resource,,This is awesome.,orange,Two,ex2.com,https://www.example2.com
+Third Resource,"<a href=""tel:+1234-567-8910"">1.234.567.8910</a>",You should check this out.,"yellow, blue",Three,ex3.com,https://www.example3.com
+Fourth Resource,,Use this tomorrow.,"green, violet",Four,ex4.com,https://www.example4.com
+# DO NOT USE,"<a href=""tel:+5555-555-5555"">5.555.555.5555</a>",This resource shouldn't exist in our table rendering because we started it with a comment!,salmon,Thirty,ex123.com,https://www.example123.com
+Fifth Resource,,"I can just keep typing words so that you can see what this looks like with a longer description, since we made the table responsive. It should show a plus sign to expand the row or show the information that wouldn't fit.","blue, OneExtremelyLongKeyword",Five,ex5.com,https://www.example5.com
+Sixth Resource,,Hope that helps.,indigo,Six,ex6.com,https://www.example6.com
+Seventh Resource,,"Happy, birthday! We hit lucky number seven in our resources.","violet, red",Seven,ex7.com,https://www.example7.com
+Eighth Resource,,I'm running out of fun things to say.,silver,Eight,ex8.com,https://www.example8.com
+Ninth Resource,"Text EXAMPLE to <a href=""sms:555-555&body=EXAMPLE"">555-555</a>",I'm watching Grey's Anatomy right now. They get In helicopters a lot.,"brown, green",Nine,ex9.com,https://www.example9.com
+Tenth Resource,,"It's also 3am right now, and I'm thinking of eating some crackers.","purple, orange",Ten,ex10.com,https://www.example10.com
+Eleventh Resource,,"Once I finish rendering this, I'll go to bed--I promise.","gold, black",Eleven,ex11.com,https://www.example11.com
+Twelfth Resource,,"By now, I hope this is on the second page, but I'm not entirely sure.",black,Twelve,ex12.com,https://www.example12.com
