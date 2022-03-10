@@ -107,10 +107,10 @@ weight = 6
 [Languages.en.params.banner]
 bg_image = "https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/exampleSite/static/images/banner.jpg"
 placeholder = "Dataset? Just ask here or enter terms"
-subtitle = "Find your best data source as you wish.."
+subtitle = "Open Data, Open Potential - Bringing the national open data community together."
 title = "Malaysia Open Data Ocean"
 [Languages.en.params.cta]
-content = "Kindly rectify your dataset keywords."
+content = "Find your best data source as you wish.."
 enable = true
 title = "Didn't find any dataset related to your search?"
 [Languages.en.params.cta.button]
