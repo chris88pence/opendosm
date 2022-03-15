@@ -61,7 +61,7 @@ placeholder = "Find your best data source as you wish.."
 subtitle = "Open Data, Open Potential - Bringing the national open data community together."
 title = "Malaysia Open Data Ocean"
 [Languages.en.params.cta]
-content = "Dataset? Just ask here or enter terms"
+content = ""
 enable = true
 title = "Didn't find any dataset related to your search?"
 [Languages.en.params.cta.button]
