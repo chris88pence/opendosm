@@ -68,6 +68,8 @@ title = "Didn't find any dataset related to your search?"
 enable = true
 label = "contact us"
 link = "contact"
+label = "contact us2"
+link = "contact2"
 [markup.goldmark.renderer]
 unsafe = true
 [params]
