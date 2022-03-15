@@ -35,6 +35,6 @@ Requests for data will be charged on cost recovery basis, depending on the amoun
 Other than providing the publications and data, DOSM also provide the consultancy services on statistical methods to conduct survey such as frame, sampling and questionnaire design, field operation, processing and data analysis.  Furthermore DOSM also provide training.
 {{</ faq >}}
 
-{{< faq "Besides handling data requests what other services are provided by DOSM?" >}}
+{{< faq "Besides handling data requests it that any training provided by DOSM?" >}}
 At the moment DOSM only provides industrial or practical training for students of higher learning institutions in Malaysia.
 {{</ faq >}}
