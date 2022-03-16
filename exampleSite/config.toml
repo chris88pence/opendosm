@@ -23,7 +23,7 @@ url = "contact"
 weight = 3
 [[Languages.en.menu.main]]
 name = "tutorial"
-link = "https://opendosm.netlify.app/tutorial"
+url = "https://opendosm.netlify.app/tutorial"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
