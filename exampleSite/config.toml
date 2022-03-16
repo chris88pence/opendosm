@@ -22,7 +22,7 @@ name = "contact"
 url = "contact"
 weight = 3
 [[Languages.en.menu.main]]
-name = "Tutorial"
+name = "tutorial"
 url = "tutorial"
 weight = 4
 [[Languages.en.menu.main]]
