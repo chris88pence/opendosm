@@ -1,7 +1,4 @@
 ---
-markdown: 
-  ...
-  escape_markup: false 
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
@@ -40,11 +37,6 @@ sections:
 - type: directory
   path: exampleSite/content/contact
   label: Contact
-  create: all
-  match: "**/*"
- - type: directory
-  path: exampleSite/content/tutorial
-  label: Tutorial
   create: all
   match: "**/*"
 - type: directory
