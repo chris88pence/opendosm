@@ -16,7 +16,7 @@ Alternatively , you can look into the data eCatalog by accessing through: <br>
 <div data-type="AwesomeTableView" data-hide-filters="false" data-filters="" data-viewID="-Mom5od9PnCXmfFGZhZG"></div>
 
 <iframe
-  src="https://htmlpreview.github.io/?https://github.com/DOSM-GitHub/opendosm/blob/master/tutorial/MYSIDC_URL_to_Python.html"
-  style="width:100%; height:600px;"
+  src="https://htmlpreview.github.io/?https://github.com/ukkdosm/ukkdosm.github.io/blob/master/openDOSM/resources.html"
+  style="width:100%; height:800px;"
   frameborder="0"
 ></iframe>
