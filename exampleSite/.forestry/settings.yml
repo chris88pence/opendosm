@@ -42,6 +42,11 @@ sections:
   label: Contact
   create: all
   match: "**/*"
+ - type: directory
+  path: exampleSite/content/tutorial
+  label: Tutorial
+  create: all
+  match: "**/*"
 - type: directory
   path: exampleSite/content/population
   label: Population
