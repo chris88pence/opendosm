@@ -6,12 +6,6 @@ title = "Others"
 type = "docs"
 
 +++
-### What is the demography?
-Demography is the study of population, especially fertility (births), mortality (death), marriage & divorce and migration. It involves the scientific study of the size, distribution and composition of spaces and how these three components vary over time.
-
-### Is the population data available to the small area?
-Population data is provided at the national level to the small area that is Malaysia, state, strata (urban/rural), administrative district, mukim, Local Authority Area (LAA), Parliament and State Legislative Assembly (DUN).
-
 ### Why is there a need to conduct establishment surveys?
 The Department of Statistics, Malaysia (DOSM) compiles a wide range of economic and labour statistics through conducting establishment surveys. The survey data are used by both the Government and the private sector in formulating policies and making decisions for economic development.
 
