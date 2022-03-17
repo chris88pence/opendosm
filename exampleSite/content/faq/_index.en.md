@@ -7,6 +7,10 @@ draft: false
 Open data is free, accessible data that anyone can use for any purpose—and public interest in it is exploding.
 {{</ faq >}}
 
+{{< faq "How can I forward my request for publications or data" >}}
+You can request or make purchase of our publications or detailed unpublished data from DOSM. To do so, please register in our [eStatistik](https://www.dosm.gov.my/v1/index.php?r=sso2/gotoeservices) and all requests or purchases will be attended through the system.
+{{</ faq >}}
+
 {{< faq "What are the charges incurred for data request and what are the methods of payment?" >}}
 Requests for data will be charged on cost recovery basis, depending on the amount of resources used to process and compile the data.
 {{</ faq >}}
@@ -20,9 +24,8 @@ At the moment DOSM only provides industrial or practical training for students o
 {{</ faq >}}
 
 
-#### How can I forward my request for publications or data
-You can request or make purchase of our publications or detailed unpublished data from DOSM. To do so, please register in our [eStatistik](https://www.dosm.gov.my/v1/index.php?r=sso2/gotoeservices) and all requests or purchases will be attended through the system.
 
+#### Enquiry
 For written enquiry please include your name, organisation, designation and purpose of obtaining the data and should be addressed to the following:
 
 Director,<br>
