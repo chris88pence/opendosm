@@ -1,6 +1,7 @@
-+++
+---
+title: "openDOSM | Malaysia Open Data Ocean"
 
-+++
+---
 #### **openDOSM** is an alternative platform for open data on official statistics produced by the Department of Statistics, Malaysia.
 
 This is an initiative to expand the open data audience and to promote open data usage among public.  
