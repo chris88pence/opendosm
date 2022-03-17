@@ -6,6 +6,12 @@ title = "Population"
 type = "docs"
 
 +++
+### What is the demography?
+Demography is the study of population, especially fertility (births), mortality (death), marriage & divorce and migration. It involves the scientific study of the size, distribution and composition of spaces and how these three components vary over time.
+
+### Is the population data available to the small area?
+Population data is provided at the national level to the small area that is Malaysia, state, strata (urban/rural), administrative district, mukim, Local Authority Area (LAA), Parliament and State Legislative Assembly (DUN).
+
 ### What is the definition of urban areas used by the Department?
 The definition of urban is:
 
