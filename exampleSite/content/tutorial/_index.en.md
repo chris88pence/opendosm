@@ -5,7 +5,7 @@ draft: false
 ---
 
 <iframe
-  src="http://statsgen.cloud/openDOSM/resources.html"
+  src="https://htmlpreview.github.io/?https://github.com/DOSM-GitHub/opendosm/blob/master/tutorial/MYSIDC_URL_to_Python.html"
   style="width:100%; height:800px;"
-  frameborder="0"
+  frameborder="0"  
 ></iframe>
