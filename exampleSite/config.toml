@@ -98,7 +98,7 @@ link = "https://twitter.com/coreteambda"
 name = "Twitter"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/DOSM-GitHub/opendosm"
 name = "Github"
 [[params.social]]
 icon = "ti-linkedin"
