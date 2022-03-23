@@ -3,6 +3,6 @@ date = ""
 description = ""
 icon = ""
 title = "TERMS OF USE"
-type = ""
+type = "docs"
 
 +++
