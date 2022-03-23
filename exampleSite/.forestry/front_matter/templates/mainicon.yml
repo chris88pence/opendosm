@@ -18,6 +18,7 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/faq/terms-of-use.md
 - exampleSite/content/indices/indices.md
 - exampleSite/content/lmarket/labour-market.md
 - exampleSite/content/naccount/national-accounts.md
