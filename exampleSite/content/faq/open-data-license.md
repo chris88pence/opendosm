@@ -2,8 +2,6 @@
 title = "OPEN DATA LICENSE"
 
 +++
-### **Malaysia Open Data Ocean (OpenDOSM) LICENCE**
-
 #### 1. Acceptance and Grant of Licence
 
 Your use of the data indicates your acceptance of OpenDOSM terms and conditions. If you fail to comply with the terms and conditions when using the data, your right to use the data will end automatically.
@@ -57,6 +55,5 @@ d. 'You' and 'your' means the natural or legal person, or body of persons corpor
 i. All data linked to OpenDOSM is published “as is”. The data is licensed 'as is' and DOSM and/or Licensor excludes all representations, warranties, obligations and liabilities in relation to the data to the maximum extent permitted by law.
 
 ii. DOSM and/or Licensor are not liable for any errors or omissions in the data and shall not be liable for any loss, injury or damage of any kind caused by its use. DOSM does not guarantee the continued supply of the data.
-
 
 Date modified: 13th January 2021
