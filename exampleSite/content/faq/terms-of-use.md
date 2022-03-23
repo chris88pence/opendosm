@@ -1,5 +1,5 @@
 +++
-title = "TERMS OF USE"
+title = "Term of Use"
 
 +++
 Malaysia Open Data Ocean (OpenDOSM) is an alternative for open data portal of social, economic & financial and environment statistics for Malaysia. OpenDOSM contains data from the Department of Statistics Malaysia as well as other government agencies. The data presented in OpenDOSM includes National Accounts, Balance of Payments and Investment, External Trade, Indexes, Industrial Production by Sector, Monetary and Banking, Labour Market, Population, Household Income and Expenditure, Agriculture, Environment, Education and Others Social Indicators.
