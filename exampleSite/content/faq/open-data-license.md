@@ -1,5 +1,5 @@
 +++
-title = "OPEN DATA LICENSE"
+title = "Open Data License"
 
 +++
 #### 1. Acceptance and Grant of Licence
