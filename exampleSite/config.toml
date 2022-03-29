@@ -26,6 +26,17 @@ name = "tutorial"
 url = "tutorial"
 weight = 4
 [[Languages.en.menu.main]]
+name = "Python"
+parent = "tutorial"
+url = "tutorial/python/"
+weight = 1
+[[Languages.en.menu.main]]
+name = "R"
+parent = "tutorial"
+url = "tutorial/R"
+weight = 2
+
+[[Languages.en.menu.main]]
 hasChildren = true
 name = "subjects"
 weight = 5
