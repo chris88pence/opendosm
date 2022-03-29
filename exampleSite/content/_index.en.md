@@ -10,5 +10,6 @@ Datasets contains here covers wide range of topics, including, social, economic 
 <br><br>
 Alternatively , you can look into the data eCatalog by accessing through: <br>
 [<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/> **openDOSM Catalog**](http://statsgen.cloud/openDOSM/resources.html)
+[<img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/images/datawrapper.png" width="25"/> **DataWrapper**](https://datawrapper.dwcdn.net/Wc0Zl/9/)
 
 <div data-type="AwesomeTableView" data-filters="false" data-viewID="-MzIJiNdPrKYTeNTQgSo"></div>
