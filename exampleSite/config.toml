@@ -16,15 +16,15 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "Faq"
 url = "faq"
-weight = 2
+weight = 4
 [[Languages.en.menu.main]]
 name = "contact"
 url = "contact"
-weight = 3
+weight = 5
 [[Languages.en.menu.main]]
 name = "tutorial"
 url = "tutorial"
-weight = 4
+weight = 3
 [[Languages.en.menu.main]]
 name = "Python"
 parent = "tutorial"
@@ -39,7 +39,7 @@ weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
 name = "subjects"
-weight = 5
+weight = 2
 [[Languages.en.menu.main]]
 name = "Agriculture"
 parent = "subjects"
