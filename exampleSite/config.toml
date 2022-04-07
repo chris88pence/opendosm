@@ -37,8 +37,8 @@ url = "tutorial/R"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "about"
-url = "about"
+name = "about-us"
+url = "about-us"
 weight = 2
 
 [[Languages.en.menu.main]]
