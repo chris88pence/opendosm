@@ -37,9 +37,9 @@ url = "tutorial/R"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "about us"
-url = "about-us"
-weight = 6
+name = "about"
+url = "about"
+weight = 2
 
 [[Languages.en.menu.main]]
 hasChildren = true
