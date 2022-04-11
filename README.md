@@ -1,5 +1,5 @@
 
-<h1 align=center>Malaysia Open Data Ocean | <a target="_blank" href="https://opendosm.netlify.app/" rel="nofollow">Visit Us</a></h1>
+<h1 align=center>Malaysia Open Data Ocean | <a target="_blank" href="https://open.dosm.gov.my/" rel="nofollow">Visit Us</a></h1>
 <p align=center>Open Data, Open Potential -Bringing the national open data community together.</p>
 
 ---
