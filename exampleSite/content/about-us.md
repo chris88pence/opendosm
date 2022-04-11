@@ -3,7 +3,7 @@ title: "About us"
 draft: false
 ---
 
-#### Objektif
+
 OpenDOSM is an alternative platform for open data access on official statistics. This platform provides access to machine-readable data format on a wide range of datasets, including social, economic & financial and environmental. OpenDOSM is an initiative by the Department to expand the open data audience and promote open data usage among the public.
 <br><br>
 _A real case study using real data for real analysis contributes to the country's well-being._
