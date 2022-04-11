@@ -4,9 +4,7 @@ draft: false
 ---
 
 #### Objektif
-Inisiatif OpenDOSM yang dibangunkan ini, bertujuan untuk meluaskan, memudahkan dan menggalakkan pengguna mengakses data yang dikeluarkan oleh DOSM dan agensi kerajaan lain dalam bentuk machine-readable format yang mengandungi data sosial dan ekonomi bagi Malaysia.
-
-Medium OpenDOSM dapat dimanfaatkan sepenuhnya oleh pengguna khususnya para penyelidik, pendidik dan pelajar untuk menggunakan data sebenar dalam kajian-kajian dan sesi pembelajaran di universiti dalam masa sama memberi manfaat kepada negara.
+OpenDOSM is an alternative platform for open data access on official statistics. This platform provides access to machine-readable data format on a wide range of datasets, including social, economic & financial and environmental. OpenDOSM is an initiative by the Department to expand the open data audience and promote open data usage among the public.
  
 _A real case study using real data for real analysis contributes to the country's well-being._
 
@@ -17,10 +15,8 @@ _A real case study using real data for real analysis contributes to the country'
 <img src="https://raw.githubusercontent.com/DOSM-GitHub/opendosm/master/images/LogoDesign-OpenDOSM.png" alt="screenshot" width="50%">
 </p>
 
-Simbol shape streaming data (orange/blue): Kepelbagaian dataset disediakan memberi kelebihan capaian kepada pengguna khususnya para penyelidik, pendidik dan pelajar untuk menggunakan data sebenar.
+The orange and blue lines and dots illustrate the diversity of the data sets provided, giving users the advantage of access to use real data, especially researchers, educators, and students.
 
-Simbol incomplete cup: Keterbukaan platform dalam satu hub, one stop centre utk data terbuka - easy access
+The incomplete cup symbol represents the platform's openness and easy access in one hub.
 
-Simbol lubang kunci: unlock any possibilities to explore a real case study using real data for real analysis contributes to the country's well-being. Pemilihan data berdasarkan kesediaan data, real-time data, near real-time, dan data pentadbiran terkini.
-
-
+The keyhole symbol represents the ability to unlock and explore any possibility of utilising statistics in contributing to the country's well-being. Data selection is based on availability, real-time, near real-time, and the latest administrative data.
